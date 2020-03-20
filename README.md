@@ -8,7 +8,8 @@
 ![alt text](https://user-images.githubusercontent.com/61579671/77157600-44512100-6ad4-11ea-9e13-0598bcf4aa99.PNG)
 ## 2. หน้าจอ login แบบปกติ
 ![alt text](https://user-images.githubusercontent.com/61579671/77157797-a7db4e80-6ad4-11ea-86d6-20c996f205c7.PNG)
-![alt text]()
+## ส่วนของ welcome
+![alt text](https://user-images.githubusercontent.com/61579671/77158207-67c89b80-6ad5-11ea-8a65-a338f6885466.PNG)
 
 ## 3. หน้า Profile facebook
 ### - แสดงหน้า Profile facebook และปุ่มกดเพื่อเริ่มการใช้งาน 
@@ -20,16 +21,16 @@
 
 ## 4. 
 ### - 
-![alt text](https://user-images.githubusercontent.com/48548611/77112213-31e6d100-6a5b-11ea-876c-cb7401bb5a8f.png)
+![alt text]()
 
 ## 5. 
 ### - 
-![alt text](https://user-images.githubusercontent.com/48548611/77112298-59d63480-6a5b-11ea-8cd8-2a16ced476f1.png)
+![alt text]()
 
 ## 6. 
 ### - 
-![alt text](https://user-images.githubusercontent.com/48548611/77112372-75d9d600-6a5b-11ea-99ed-0dc670dded23.png)
+![alt text]()
 
 ## 7. 
 ### - 
-![alt text](https://user-images.githubusercontent.com/48548611/77112492-af124600-6a5b-11ea-9380-bf44b0989e11.png)
+![alt text]()
