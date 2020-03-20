@@ -1,11 +1,9 @@
 # cattery
 # Android Project : cattery
 
-# intro
-กพำพกเกเะเกะ
+# intro : ชอบแมวมากเลยอยากทำฟาร์มแมว อยากเลี้ยงแมวเยอะๆ
 
-# องค์ประกอบที่นำมาพัฒนาแอพลิเคชั่น
-
+# องค์ประกอบที่นำมาพัฒนาแอพลิเคชั่น : Fragment ,RecyclerView ,Facebook authen ,Dialog ,realtime database
 
 ## cattery
 
