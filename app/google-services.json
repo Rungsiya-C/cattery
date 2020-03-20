@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688935858687",
+    "firebase_url": "https://facebook-authen-e023b.firebaseio.com",
+    "project_id": "facebook-authen-e023b",
+    "storage_bucket": "facebook-authen-e023b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688935858687:android:7ad545b5a33549d0a037ca",
+        "android_client_info": {
+          "package_name": "com.example.myappfacebookauthen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688935858687-e7fhktuso5nks77omuef348j3d08dqeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myappfacebookauthen",
+            "certificate_hash": "d625e209c27f344eb38fa7f597647ab1bbff55b6"
+          }
+        },
+        {
+          "client_id": "688935858687-splseud30pr01v86hkbbat63o1eo314r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8DZJnFYCq43xiFozeCggiyFitXadTHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688935858687-splseud30pr01v86hkbbat63o1eo314r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
