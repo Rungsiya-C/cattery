@@ -4,14 +4,17 @@
 ## cattery
 
 ## 1. หน้าแรก
-### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ห้องแชท หรือกดดูรายละเอียดใน readme  
-![alt text](https://user-images.githubusercontent.com/48548611/77112034-e46a6400-6a5a-11ea-91db-4f3f01a5c9ba.png)
+### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อใช้งาน และดำเนินการต่อแบบปกติ
+![alt text](https://user-images.githubusercontent.com/61579671/77157600-44512100-6ad4-11ea-9e13-0598bcf4aa99.PNG)
+## 2. หน้าจอ login แบบปกติ
+![alt text](https://user-images.githubusercontent.com/61579671/77157797-a7db4e80-6ad4-11ea-86d6-20c996f205c7.PNG)
+![alt text]()
 
-## 2. 
-### - 
-![alt text](https://user-images.githubusercontent.com/48548611/77112531-c3564300-6a5b-11ea-99d8-303a064e1a0d.png)
+## 3. หน้า Profile facebook
+### - แสดงหน้า Profile facebook และปุ่มกดเพื่อเริ่มการใช้งาน 
+![alt text](https://user-images.githubusercontent.com/61579671/77157872-d0fbdf00-6ad4-11ea-8762-cbd3be7fc5e8.PNG)
 
-## 3. 
+## 3. หน้า Recycler View
 ### - 
 ![alt text](https://user-images.githubusercontent.com/48548611/77112122-07951380-6a5b-11ea-9a4a-a9c9cda110d4.png)
 
