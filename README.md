@@ -1,6 +1,12 @@
 # cattery
 # Android Project : cattery
 
+# intro
+กพำพกเกเะเกะ
+
+# องค์ประกอบที่นำมาพัฒนาแอพลิเคชั่น
+
+
 ## cattery
 
 ## 1. หน้าแรก
@@ -15,26 +21,26 @@
 ### - แสดงหน้า Profile facebook และปุ่มกดเพื่อเริ่มการใช้งาน 
 ![alt text](https://user-images.githubusercontent.com/61579671/77157872-d0fbdf00-6ad4-11ea-8762-cbd3be7fc5e8.PNG)
 
-## 3. หน้า Recycler View
+## 4. หน้า Recycler View
 ### - แสดงหน้าจอของแมวแต่ละตัว สามารถเลือกดูได้เป็นรายการ
 ![alt text](https://user-images.githubusercontent.com/61579671/77158329-ad856400-6ad5-11ea-84b2-4690e6694e77.PNG)
 
-## 4. หน้า Detail 
+## 5. หน้า Detail 
 ### - แสดงรายละเอียดของแมวที่เลือก ว่ามีราคาและข้อมูลเป็นอย่างไร
 ![alt text](https://user-images.githubusercontent.com/61579671/77158445-e9b8c480-6ad5-11ea-91c7-1a5d4d542e6b.PNG)
 
-## 5. หน้าจอ transfer 
+## 6. หน้าจอ transfer 
 ### - สำหรับกดปุ่มเพื่อยืนยันการโอนเงิน เมื่อกด Submit แล้วจะแสดง dialog เพื่อยืนยัน
 ![alt text](https://user-images.githubusercontent.com/61579671/77158536-1371eb80-6ad6-11ea-8430-3e924d60ee45.PNG)
 
-## 6. หน้าจอแสดง dialog
+## 7. หน้าจอแสดง dialog
 ### - กดเพื่อยืนยันและบันทึกข้อมูลลง RealtimeDatabase
 ![alt text](https://user-images.githubusercontent.com/61579671/77158674-5df36800-6ad6-11ea-9eb6-6e0dff4b6bda.PNG)
 
-## 7. หน้าจอแสดงบันทึกสำเร็จ
+## 8. หน้าจอแสดงบันทึกสำเร็จ
 ### - แสดงข้อความยืนยัน ซึ่งบันทึกข้อมูลลง RealtimeDatabase แล้ว 
 ![alt text](https://user-images.githubusercontent.com/61579671/77158769-8c714300-6ad6-11ea-9220-b82464d11a57.PNG)
 
-## 8. หน้าจอแสดงข้อมูลใน RealtimeDatabase
+## 9. หน้าจอแสดงข้อมูลใน RealtimeDatabase
 ### - แสดงข้อมูลที่บันทึกลงใน RealtimeDatabase
 ![alt text](https://user-images.githubusercontent.com/61579671/77158925-df4afa80-6ad6-11ea-8d1c-dd657e43c526.PNG)
